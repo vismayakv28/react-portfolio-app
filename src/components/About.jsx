@@ -17,7 +17,7 @@ export default function About() {
 
                 {/* Image */}
                 <div className="about-image">
-                    <img src="public/vii.jpg" alt="Profile" />
+                    <img src="/vii.jpg" alt="Profile" />
                 </div>
 
                 {/* Right Content */}
@@ -57,7 +57,7 @@ export default function About() {
 
                     {/* Button */}
                     <a
-                        href="/Resume_Arya_MK.pdf"
+                        href="/Resume_.pdf"
                         download
                         className="about-btn"
                     >

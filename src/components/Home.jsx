@@ -52,7 +52,7 @@ export default function Home() {
 
                 {/* Profile Image */}
                 <div className="home-image">
-                    <img src="public/vichu.jpg" alt="Vismay K V" />
+                    <img src="/vichu.jpg" alt="Vismay K V" />
                 </div>
 
 

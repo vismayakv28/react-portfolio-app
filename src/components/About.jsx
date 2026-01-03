@@ -27,7 +27,7 @@ export default function About() {
                     <div className="about-stats">
                         <div className="stat">
                             <FaAward />
-                            <h3>01+</h3>
+                            <h3>0</h3>
                             <p>Years<br />Experience</p>
                         </div>
 

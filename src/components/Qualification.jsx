@@ -48,9 +48,22 @@ const Qualification = () => {
                             <div className="qualification__calendar">
                                 <FaCalendarAlt /> Jun 2022 - Mar 2025
                             </div>
+
+
+                            <h3 className="qualification__title">
+                                Java Full Stack Development-intern
+                            </h3>
+                            <span className="qualification__subtitle">
+                                B-Learn Banglore
+                            </span>
+                            <div className="qualification__calendar">
+                                <FaCalendarAlt /> may- 2025
+                            </div>
                         </div>
 
                         <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
                             <span className="qualification__rounder"></span>
                             <span className="qualification__line"></span>
                         </div>

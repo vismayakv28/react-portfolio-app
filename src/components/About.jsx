@@ -57,7 +57,7 @@ export default function About() {
 
                     {/* Button */}
                     <a
-                        href="/Resume_.pdf"
+                        href="/resume.jpg"
                         download
                         className="about-btn"
                     >

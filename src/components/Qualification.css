@@ -56,7 +56,9 @@
     grid-template-columns: 1fr max-content 1fr;
     column-gap: 2rem;
     margin-bottom: 2.5rem;
+   
 }
+
 
 .qualification__title {
     font-size: 1.2rem;
@@ -69,6 +71,7 @@
     font-size: 0.95rem;
     color: #666;
     margin-bottom: 0.3rem;
+    
 }
 
 .qualification__calendar {
@@ -81,8 +84,8 @@
 
 .qualification__rounder {
     display: inline-block;
-    width: 13px;
-    height: 13px;
+    width: 12px;
+    height: 12px;
     background-color: rgb(56, 56, 245);
     border-radius: 50%;
 }
